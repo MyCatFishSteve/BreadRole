@@ -1,0 +1,21 @@
+{
+  "root_account": "XXXXXXXXXXXX",
+  "branch_accounts": [
+    "XXXXXXXXXXXX",
+    "XXXXXXXXXXXX",
+    "XXXXXXXXXXXX",
+    "XXXXXXXXXXXX"
+  ]
+  "role_name": "MyCustomLambdaRole",
+  "role_policies": [
+    {
+      "policy": "details"
+    },
+    {
+      "policy": "details"
+    },
+    {
+      "policy": "details"
+    }
+  ]
+}
